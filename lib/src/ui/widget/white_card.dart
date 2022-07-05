@@ -14,6 +14,7 @@ class WhiteCard extends StatelessWidget {
 }
 // -------------------------------------------------------------------------------
   BoxDecoration _buildDecoration() => const BoxDecoration(
-    color: Colors.white
+    color: Colors.white,
+    // esto es un comentario agregado desde jngs
   );
 // -------------------------------------------------------------------------------
